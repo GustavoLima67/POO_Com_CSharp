@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\bin\Debug\net6.0\FirstProjectC#inVsCode.exe
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\bin\Debug\net6.0\FirstProjectC#inVsCode.deps.json
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\bin\Debug\net6.0\FirstProjectC#inVsCode.runtimeconfig.json
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\bin\Debug\net6.0\FirstProjectC#inVsCode.dll
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\bin\Debug\net6.0\ref\FirstProjectC#inVsCode.dll
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\bin\Debug\net6.0\FirstProjectC#inVsCode.pdb
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\obj\Debug\net6.0\FirstProjectC#inVsCode.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\obj\Debug\net6.0\FirstProjectC#inVsCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\obj\Debug\net6.0\FirstProjectC#inVsCode.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\obj\Debug\net6.0\FirstProjectC#inVsCode.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\obj\Debug\net6.0\FirstProjectC#inVsCode.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\obj\Debug\net6.0\FirstProjectC#inVsCode.dll
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\obj\Debug\net6.0\ref\FirstProjectC#inVsCode.dll
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\obj\Debug\net6.0\FirstProjectC#inVsCode.pdb
+C:\Users\Gustavo\Documents\ProjetosVScode\FirstProjectC#inVsCode\obj\Debug\net6.0\FirstProjectC#inVsCode.genruntimeconfig.cache
